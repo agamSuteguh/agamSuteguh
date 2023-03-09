@@ -11,4 +11,7 @@
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=agamSuteguh&theme=dark&show_icons=true)](https://github.com/agamSuteguh)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=agamSuteguh&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agamSuteguh&hide=TeX&layout=compact)
+
+
